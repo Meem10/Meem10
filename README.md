@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohammed ، Frontend iOS Developer</h1>
-<h3 align="center">trying to learn new languages such as Flutter And Python🐍</h3>
+<h3 align="center">trying to learn new languages 😄</h3>
 
 - 🔭 I’m currently working on **my great project called FixHose**
 
