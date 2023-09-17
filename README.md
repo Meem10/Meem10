@@ -1,13 +1,9 @@
 <h1 align="center">Hi 👋, I'm Mohammed ، Frontend iOS Developer</h1>
 <h3 align="center">trying to learn new languages 😄</h3>
 
-- 🔭 I’m currently working on **my great project called FixHose**
-
-- 🌱 I’m currently learning **python , flutter**
+- 🔭 I’m currently learning **React Native , Flutter**
 
 - 👯 I’m looking to collaborate on **with anyone who has ambitions to develop swift app**
-
-- 🤝 I’m looking for help with **any one with a Backend**
 
 - 📫 How to reach me **Mohaalsaad.j@gmail.com**
 
