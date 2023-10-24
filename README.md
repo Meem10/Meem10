@@ -1,11 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mohammed ، Frontend iOS Developer</h1>
 <h3 align="center">trying to learn new languages 😄</h3>
 
-- 🔭 I’m currently learning **React Native , Flutter**
-
 - 👯 I’m looking to collaborate on **with anyone who has ambitions to develop swift app**
-
-
+- 
 - 📫 How to reach me **Mohaalsaad.j@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
